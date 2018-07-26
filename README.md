@@ -1,2 +1,6 @@
 # hello-world
-Tutorial Repo
+
+Some random information held here.
+
+
+Some additional information added at this point too.
